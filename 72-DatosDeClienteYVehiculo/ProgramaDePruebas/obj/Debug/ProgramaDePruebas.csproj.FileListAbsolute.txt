@@ -1,0 +1,12 @@
+C:\Users\tauro\Desktop\ProgramaDePruebas\ProgramaDePruebas\bin\Debug\ProgramaDePruebas.exe
+C:\Users\tauro\Desktop\ProgramaDePruebas\ProgramaDePruebas\bin\Debug\ProgramaDePruebas.pdb
+C:\Users\tauro\Desktop\ProgramaDePruebas\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\ProgramaDePruebas\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\ProgramaDePruebas\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.exe
+C:\Users\tauro\Desktop\ProgramaDePruebas\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.pdb
+C:\Users\tauro\Desktop\DatosDeClienteYVehiculo\ProgramaDePruebas\bin\Debug\ProgramaDePruebas.exe
+C:\Users\tauro\Desktop\DatosDeClienteYVehiculo\ProgramaDePruebas\bin\Debug\ProgramaDePruebas.pdb
+C:\Users\tauro\Desktop\DatosDeClienteYVehiculo\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\DatosDeClienteYVehiculo\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\DatosDeClienteYVehiculo\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.exe
+C:\Users\tauro\Desktop\DatosDeClienteYVehiculo\ProgramaDePruebas\obj\Debug\ProgramaDePruebas.pdb
